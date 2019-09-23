@@ -4,7 +4,7 @@ Based on Christian Buchner's &amp; Christian H.'s CUDA project, no more active o
 
 Check the [README.txt](README.txt) for the additions
 
-BTC donation address: 1AJdfCpLWPNoAMDfHF1wD5y8VgKSSTHxPo (tpruvot)
+BTC donation address: 3QY9VSc5YmoUa6Ywzzss8mXuhFJ4if51VM(tpruvot)
 
 A part of the recent algos were originally written by [djm34](https://github.com/djm34) and [alexis78](https://github.com/alexis78)
 
